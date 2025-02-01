@@ -1,0 +1,91 @@
+:root { 
+  --black: #000000;
+  --caribbean-green: #16d1b3;
+  --cloud: #c6c6c6;
+  --dove-gray: #707070;
+  --madang: #b3f8c8;
+  --nile-blue: #18354e;
+  --sundown: #ffaebb;
+  --sundown-2: #ffa9ba;
+  --white: #ffffff;
+ 
+  --font-size-l: 125px;
+  --font-size-m: 75px;
+  --font-size-s: 72px;
+  --font-size-xs: 50px;
+  --font-size-xxs: 45px;
+  --font-size-xxxs: 30px;
+  --font-size-xxxxs: 28px;
+ 
+  --font-family-all_round_gothic: "All Round Gothic", Helvetica;
+  --font-family-allround_gothic-bold: "all-round-gothic", Helvetica;
+  --font-family-allround_gothic-book: "all-round-gothic", Helvetica;
+  --font-family-allround_gothic-demi: "all-round-gothic", Helvetica;
+  --font-family-allround_gothic-medium: "all-round-gothic", Helvetica;
+  --font-family-cherrysoda-regular: "CherrySoda-Regular", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-singlesvillescript-regular: "SinglesvilleScript-Regular", Helvetica;
+}
+.allroundgothic-medium-madang-50px {
+  color: var(--madang);
+  font-family: var(--font-family-allround_gothic-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.cherrysoda-regular-normal-nile-blue-45px {
+  color: var(--nile-blue);
+  font-family: var(--font-family-cherrysoda-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.allroundgothic-medium-white-45px {
+  color: var(--white);
+  font-family: var(--font-family-allround_gothic-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.allroundgothic-book-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-allround_gothic-book);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.allroundgothic-medium-nile-blue-45px {
+  color: var(--nile-blue);
+  font-family: var(--font-family-allround_gothic-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.opensans-normal-cloud-28px {
+  color: var(--cloud);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.allroundgothic-medium-madang-72px {
+  color: var(--madang);
+  font-family: var(--font-family-allround_gothic-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.allroundgothic-book-normal-sundown-75px {
+  color: var(--sundown-2);
+  font-family: var(--font-family-allround_gothic-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

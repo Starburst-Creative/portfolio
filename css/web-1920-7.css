@@ -1,0 +1,487 @@
+/* screen - web-1920-7 */
+
+.web-1920-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3465px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.web-1920-7 .overlap-group2 {
+  height: 4049px;
+  margin-left: -173px;
+  position: relative;
+  width: 2284px;
+}
+
+.web-1920-7 .backgrounds-06-08 {
+  height: 3594px;
+  left: 174px;
+  object-fit: cover;
+  position: absolute;
+  top: 455px;
+  width: 1919px;
+}
+
+.web-1920-7 .rectangle-4 {
+  background-color: var(--nile-blue);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 164px;
+  left: 173px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.web-1920-7 .rectangle-5 {
+  background-color: var(--sundown);
+  border-radius: 39px;
+  cursor: pointer;
+  height: 91px;
+  left: 1646px;
+  position: absolute;
+  top: 37px;
+  transition: all 0.2s ease;
+  width: 419px;
+}
+
+.web-1920-7 .rectangle-5:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.web-1920-7 .contact-us {
+  left: 1713px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.web-1920-7 .starburst-creative-web-logo {
+  height: 164px;
+  left: 218px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.web-1920-7 .title {
+  cursor: pointer;
+  left: 1474px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.web-1920-7 .about {
+  cursor: pointer;
+  left: 1282px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.web-1920-7 .place {
+  cursor: pointer;
+  left: 1090px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.web-1920-7 .overlap-group {
+  height: 309px;
+  left: 835px;
+  position: absolute;
+  top: 161px;
+  width: 596px;
+}
+
+.web-1920-7 .path-39821 {
+  height: 297px;
+  left: 0;
+  top: 12px;
+  width: 596px;
+}
+
+.web-1920-7 .group-106 {
+  background-image: url(../img/group-105@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 309px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 596px;
+}
+
+.web-1920-7 .signage-contour-cut-designs {
+  left: 797px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 506px;
+  white-space: nowrap;
+}
+
+.web-1920-7 .packaging {
+  left: 1022px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 1256px;
+  white-space: nowrap;
+}
+
+.web-1920-7 .img_3608 {
+  height: 580px;
+  left: 237px;
+  object-fit: cover;
+  position: absolute;
+  top: 1342px;
+  width: 577px;
+}
+
+.web-1920-7 .path-39819 {
+  height: 3403px;
+  left: 260px;
+  top: 161px;
+  width: 2023px;
+}
+
+.web-1920-7 .group-127 {
+  background-image: url(../img/group-124@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 401px;
+  left: 852px;
+  position: absolute;
+  top: 2600px;
+  width: 601px;
+}
+
+.web-1920-7 .group-131 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 401px;
+  left: 1542px;
+  position: absolute;
+  top: 2600px;
+  width: 497px;
+}
+
+.web-1920-7 .group-135 {
+  display: flex;
+  height: 416px;
+  left: 1098px;
+  position: absolute;
+  top: 2129px;
+  width: 496px;
+}
+
+.web-1920-7 .group-134 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 495.72px;
+}
+
+.web-1920-7 .group-133 {
+  background-image: url(../img/group-132@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: -32.4px;
+  margin-right: -26.5px;
+  margin-top: 0;
+  width: 554.67px;
+}
+
+.web-1920-7 .group-139 {
+  display: flex;
+  height: 416px;
+  left: 1630px;
+  position: absolute;
+  top: 2129px;
+  width: 422px;
+}
+
+.web-1920-7 .group-138 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 422.1px;
+}
+
+.web-1920-7 .group-137 {
+  background-image: url(../img/group-136@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: -82.2px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: -64.6px;
+  width: 422.1px;
+}
+
+.web-1920-7 .rectangle-3 {
+  background-color: var(--sundown);
+  height: 352px;
+  left: 173px;
+  position: absolute;
+  top: 3123px;
+  width: 1920px;
+}
+
+.web-1920-7 .socials-21 {
+  left: 1015px;
+  width: 79px;
+}
+
+.web-1920-7 .socials-22 {
+  left: 1094px;
+  width: 79px;
+}
+
+.web-1920-7 .socials-23 {
+  left: 1173px;
+  width: 78px;
+}
+
+.web-1920-7 .group-111 {
+  display: flex;
+  height: 446px;
+  left: 293px;
+  position: absolute;
+  top: 632px;
+  width: 455px;
+}
+
+.web-1920-7 .group-110 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 455.4px;
+}
+
+.web-1920-7 .group-109 {
+  background-image: url(../img/group-108@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: -142.1px;
+  margin-left: -22.8px;
+  margin-right: -33.6px;
+  margin-top: -94.3px;
+  width: 511.79px;
+}
+
+.web-1920-7 .path-39820 {
+  height: 3101px;
+  left: 0;
+  top: 328px;
+  width: 2093px;
+}
+
+.web-1920-7 .group-119 {
+  display: flex;
+  height: 466px;
+  left: 1339px;
+  position: absolute;
+  top: 612px;
+  width: 633px;
+}
+
+.web-1920-7 .group-118 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 633.25px;
+}
+
+.web-1920-7 .group-117 {
+  background-image: url(../img/group-116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: -33.3px;
+  margin-right: -46.3px;
+  margin-top: 0;
+  width: 712.79px;
+}
+
+.web-1920-7 .img_3607 {
+  height: 550px;
+  left: 1480px;
+  object-fit: cover;
+  position: absolute;
+  top: 1342px;
+  width: 549px;
+}
+
+.web-1920-7 .labels {
+  height: 240px;
+  left: 837px;
+  object-fit: cover;
+  position: absolute;
+  top: 1342px;
+  width: 620px;
+}
+
+.web-1920-7 .labels7 {
+  height: 240px;
+  left: 837px;
+  object-fit: cover;
+  position: absolute;
+  top: 1638px;
+  width: 620px;
+}
+
+.web-1920-7 .group-123 {
+  display: flex;
+  height: 401px;
+  left: 652px;
+  position: absolute;
+  top: 2144px;
+  width: 409px;
+}
+
+.web-1920-7 .group-122 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 409.45px;
+}
+
+.web-1920-7 .group-121 {
+  background-image: url(../img/group-120@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: -86.7px;
+  margin-left: -4.7px;
+  margin-right: -4.9px;
+  margin-top: -71.1px;
+  width: 419.04px;
+}
+
+.web-1920-7 .cards-posters-brochures {
+  color: var(--black);
+  font-family: var(--font-family-allround_gothic-medium);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  left: 835px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 2024px;
+  white-space: nowrap;
+}
+
+.web-1920-7 .group-129 {
+  background-image: url(../img/group-128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 401px;
+  left: 228px;
+  position: absolute;
+  top: 2600px;
+  width: 535px;
+}
+
+.web-1920-7 .group-115 {
+  display: flex;
+  height: 446px;
+  left: 816px;
+  position: absolute;
+  top: 632px;
+  width: 455px;
+}
+
+.web-1920-7 .group-114 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 455.4px;
+}
+
+.web-1920-7 .group-113 {
+  background-image: url(../img/group-112@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: -29.5px;
+  margin-left: -41.4px;
+  margin-right: -139.9px;
+  margin-top: -2.0px;
+  width: 636.64px;
+}
+
+.web-1920-7 .group-201 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 79px;
+  justify-content: flex-end;
+  left: 157px;
+  min-width: 147px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 176px;
+}
+
+.web-1920-7 .overlap-group1 {
+  height: 79px;
+  position: relative;
+  width: 147px;
+}
+
+.web-1920-7 .place-1 {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.web-1920-7 .path-39834 {
+  height: 79px;
+  left: 0;
+  top: 0;
+  width: 147px;
+}
+
+.web-1920-7 .x84-d64134-224-f-46-e {
+  border-radius: 59px;
+  height: 401px;
+  left: 214px;
+  object-fit: cover;
+  position: absolute;
+  top: 2144px;
+  width: 401px;
+}
+
+.web-1920-7 .socials {
+  cursor: pointer;
+  height: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 3264px;
+}

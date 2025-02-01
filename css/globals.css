@@ -1,0 +1,56 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/6796ad7de5859748fd72bcb0.6796ad7de5859748fd72bcb3.pxBVzd4.hcp.png");
+
+@font-face {
+  font-family: "CherrySoda-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/CherrySoda.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SinglesvilleScript-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/SinglesvilleScript.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+input:focus {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.socials-2 {
+  cursor: pointer;
+  height: 79px;
+  object-fit: cover;
+  width: 79px;
+}
+
+.path {
+  object-fit: cover;
+  position: absolute;
+}

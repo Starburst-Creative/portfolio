@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/web-1920-4.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <link rel="stylesheet" href="https://use.typekit.net/emx1twi.css">
+    <input type="hidden" id="anPageName" name="page" value="web-1920-4" />
+    <div class="container-center-horizontal">
+      <form class="web-1920-4 screen" name="form1" action="form1" method="post">
+        <div class="overlap-group1">
+          <img
+            class="starburst-creative-web-logo"
+            src="img/starburst-creative-web-logo-1@1x.png"
+            alt="Starburst Creative web logo"
+          />
+          <a href="web-1920-1.html"><div class="place allroundgothic-medium-madang-50px">Home</div> </a
+          ><a href="web-1920-2.html"><div class="about allroundgothic-medium-madang-50px">About</div> </a
+          ><a href="web-1920-3.html"><div class="work allroundgothic-medium-madang-50px">Work</div> </a>
+          <div class="overlap-group4">
+            <a href="web-1920-3.html"> <div class="rectangle-5"></div></a>
+            <div class="contact-us cherrysoda-regular-normal-nile-blue-45px">Contact Us</div>
+          </div>
+        </div>
+        <div class="overlap-group3"><img class="collage-09" src="img/collage-09-1@1x.png" alt="collage-09" /></div>
+        <div class="overlap-group2">
+          <div class="rectangle-8"></div>
+          <div class="rectangle-9"></div>
+          <img class="contact-star-24 contact-star" src="img/contact-star-24@1x.png" alt="contact star-24" />
+          <img class="contact-star-pink contact-star" src="img/contact-star-pink@1x.png" alt="contact star pink" />
+          <div class="group-1">
+            <div class="overlap-group"><img class="path-39814" src="img/path-39814@1x.png" alt="Path 39814" /></div>
+            <div class="flex-col">
+              <h1 class="title">Contact Us</h1>
+              <div class="form">
+                <div class="name">
+                  <input
+                    class="your-name opensans-normal-cloud-28px"
+                    name="your-name1"
+                    placeholder="Name"
+                    type="text"
+                    required
+                  />
+                </div>
+                <div class="form-item">
+                  <input
+                    class="your-email opensans-normal-cloud-28px"
+                    name="your-email1"
+                    placeholder="E-Mail"
+                    type="text"
+                    required
+                  />
+                </div>
+                <div class="form-item">
+                  <input
+                    class="your-company opensans-normal-cloud-28px"
+                    name="your-company1"
+                    placeholder="Company"
+                    type="text"
+                    required
+                  />
+                </div>
+                <p class="tell-us-a-little-abo">Tell us a little about your company and your design needs.</p>
+                <div class="message">
+                  <input
+                    class="message-1 opensans-normal-cloud-28px"
+                    name="message1"
+                    placeholder="message"
+                    type="text"
+                    required
+                  />
+                </div>
+                <a href="web-1920-9.html">
+                  <div class="button"><div class="submit">Submit</div></div></a
+                >
+              </div>
+            </div>
+          </div>
+          <img class="behance-banner" src="img/behance-banner@1x.png" alt="behance banner" />
+          <div class="rectangle-3"></div>
+          <a href="https://www.instagram.com/StarburstCreative/" target="_blank"
+            ><img class="socials-21 socials" src="img/socials-21-1@1x.png" alt="socials-21" /> </a
+          ><a href="https://www.facebook.com/StarburstCreative" target="_blank"
+            ><img class="socials-22 socials" src="img/socials-22-1@1x.png" alt="socials-22" /> </a
+          ><a href="https://www.behance.net/StarburstCreative/" target="_blank"
+            ><img class="socials-23 socials" src="img/socials-23-1@1x.png" alt="socials-23" />
+          </a>
+        </div>
+      </form>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

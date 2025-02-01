@@ -1,0 +1,393 @@
+/* screen - web-1920-6 */
+
+.web-1920-6 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 3857px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.web-1920-6 .overlap-group3 {
+  align-items: center;
+  background-color: var(--nile-blue);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  justify-content: flex-end;
+  min-width: 1920px;
+  padding: 0 28px;
+}
+
+.web-1920-6 .starburst-creative-web-logo {
+  align-self: flex-start;
+  height: 164px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 335px;
+}
+
+.web-1920-6 .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 537px;
+  margin-top: 12.0px;
+  min-height: 62px;
+  min-width: 139px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .about {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 53px;
+  margin-top: 12.0px;
+  min-height: 62px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .work {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 43px;
+  margin-top: 12.0px;
+  min-height: 62px;
+  min-width: 129px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .overlap-group4 {
+  border-radius: 39px;
+  height: 91px;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  position: relative;
+  width: 419px;
+}
+
+.web-1920-6 .rectangle-5 {
+  background-color: var(--sundown);
+  border-radius: 39px;
+  cursor: pointer;
+  height: 91px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 419px;
+}
+
+.web-1920-6 .rectangle-5:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.web-1920-6 .contact-us {
+  left: 67px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .group-container {
+  height: 3865px;
+  margin-right: -204.71px;
+  position: relative;
+  width: 2141px;
+}
+
+.web-1920-6 .overlap-group2 {
+  height: 3861px;
+  left: 16px;
+  position: absolute;
+  top: 4px;
+  width: 2125px;
+}
+
+.web-1920-6 .rectangle-149 {
+  background-color: var(--black);
+  height: 823px;
+  left: 0;
+  position: absolute;
+  top: 2513px;
+  width: 1920px;
+}
+
+.web-1920-6 .rectangle-147 {
+  background-color: var(--nile-blue);
+  height: 1008px;
+  left: 0;
+  position: absolute;
+  top: 888px;
+  width: 1920px;
+}
+
+.web-1920-6 .rectangle-146 {
+  background-color: var(--sundown);
+  height: 622px;
+  left: 0;
+  position: absolute;
+  top: 266px;
+  width: 1920px;
+}
+
+.web-1920-6 .backgrounds-06-06 {
+  height: 3595px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 1920px;
+}
+
+.web-1920-6 .overlap-group {
+  height: 266px;
+  left: 701px;
+  position: absolute;
+  top: 0;
+  width: 517px;
+}
+
+.web-1920-6 .path-39818 {
+  height: 255px;
+  left: 0;
+  top: 11px;
+  width: 517px;
+}
+
+.web-1920-6 .group-103 {
+  background-image: url(../img/group-102@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 266px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 517px;
+}
+
+.web-1920-6 .carosel-ads {
+  left: 831px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 297px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .reels {
+  left: 904px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 914px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .banners {
+  left: 871px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 1874px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .youtubethumbnailsfinal-03 {
+  height: 284px;
+  left: 172px;
+  top: 2987px;
+  width: 504px;
+}
+
+.web-1920-6 .rectangle-3 {
+  background-color: var(--sundown);
+  height: 352px;
+  left: 0;
+  position: absolute;
+  top: 3323px;
+  width: 1920px;
+}
+
+.web-1920-6 .socials-21 {
+  left: 842px;
+  width: 79px;
+}
+
+.web-1920-6 .socials-22 {
+  left: 921px;
+  width: 79px;
+}
+
+.web-1920-6 .socials-23 {
+  left: 1000px;
+  width: 78px;
+}
+
+.web-1920-6 .path-39819 {
+  height: 3403px;
+  left: 66px;
+  top: 326px;
+  width: 2023px;
+}
+
+.web-1920-6 .purchase-thumbnail-compressed {
+  height: 286px;
+  left: 1244px;
+  object-fit: cover;
+  position: absolute;
+  top: 2669px;
+  width: 509px;
+}
+
+.web-1920-6 .thumbnail {
+  height: 288px;
+  left: 1245px;
+  object-fit: cover;
+  position: absolute;
+  top: 2983px;
+  width: 496px;
+}
+
+.web-1920-6 .thumbnail-1 {
+  height: 288px;
+  left: 708px;
+  object-fit: cover;
+  position: absolute;
+  top: 2983px;
+  width: 512px;
+}
+
+.web-1920-6 .youtubethumbnailsfinal-02 {
+  height: 286px;
+  left: 706px;
+  top: 2665px;
+  width: 508px;
+}
+
+.web-1920-6 .comp-1_1_1 {
+  height: 770px;
+  left: 213px;
+  object-fit: cover;
+  position: absolute;
+  top: 996px;
+  width: 433px;
+}
+
+.web-1920-6 .path-39820 {
+  height: 3101px;
+  left: 31px;
+  top: 102px;
+  width: 2093px;
+}
+
+.web-1920-6 .humanetics-linked-in {
+  height: 435px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 1781px;
+}
+
+.web-1920-6 .gearedup_1_1 {
+  height: 770px;
+  left: 1275px;
+  object-fit: cover;
+  position: absolute;
+  top: 996px;
+  width: 433px;
+}
+
+.web-1920-6 .etoile_1 {
+  height: 770px;
+  left: 744px;
+  object-fit: cover;
+  position: absolute;
+  top: 996px;
+  width: 433px;
+}
+
+.web-1920-6 .obk-banner {
+  height: 485px;
+  left: 408px;
+  object-fit: cover;
+  position: absolute;
+  top: 1956px;
+  width: 1105px;
+}
+
+.web-1920-6 .youtubetravel {
+  height: 277px;
+  left: 184px;
+  object-fit: cover;
+  position: absolute;
+  top: 2669px;
+  width: 492px;
+}
+
+.web-1920-6 .youtube-thumbnails {
+  left: 748px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 2563px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .group-201 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 79px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 147px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+}
+
+.web-1920-6 .overlap-group1 {
+  height: 79px;
+  position: relative;
+  width: 147px;
+}
+
+.web-1920-6 .place-1 {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.web-1920-6 .path-39834 {
+  height: 79px;
+  left: 0;
+  top: 0;
+  width: 147px;
+}
+
+.web-1920-6 .socials {
+  cursor: pointer;
+  height: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 3464px;
+}
+
+.web-1920-6 .youtubethumbnailsfinal {
+  object-fit: cover;
+  position: absolute;
+}
